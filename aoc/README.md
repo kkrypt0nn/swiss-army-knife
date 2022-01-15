@@ -5,6 +5,12 @@ This package provides some helper functions to make the Advent of Code solutions
 ## Examples
 
 ```go
+package main
+
+import (
+	"github.com/kkrypt0nn/swiss-army-knife/aoc"
+)
+
 func main() {
     str := "hello world"
     substr := "world"
@@ -18,6 +24,12 @@ func main() {
 ```
 
 ```go
+package main
+
+import (
+	"github.com/kkrypt0nn/swiss-army-knife/aoc"
+)
+
 func main() {
     myMap := map[int]int{
         0: 5,

@@ -5,6 +5,12 @@ This package provides some helper functions to be able to send formatted output 
 ## Example
 
 ```go
+package main
+
+import (
+	"github.com/kkrypt0nn/swiss-army-knife/terminal"
+)
+
 func main() {
     if terminal.AreColorsSupported() {
         fmt.Println(terminal.BackgroundBlack(terminal.Green("Terminal supports colors")))
