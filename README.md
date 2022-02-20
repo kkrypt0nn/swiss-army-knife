@@ -9,6 +9,7 @@ Swiss Army Knife is a **Go** library containing multiple packages that I often u
 The library currently offers the following features:
 
 - **[aoc](aoc)** - Some useful helpers for the Advent of Code.
+- **[certificate](certificate)** - Generate a valid x509 certificate for a local web server.
 - **[dispatcher](dispatcher)** - Lets you register and dispatch custom created events.
 - **[terminal](terminal)** - Lets you display text with effects and colors in your terminal.
 
