@@ -23,4 +23,4 @@ go get github.com/kkrypt0nn/swiss-army-knife
 
 ## License
 
-This library was made with 💜 by [Krypton](https://krypt0n.co.uk) and is under the [GPL v3](LICENSE.md) license.
+This library was made with 💜 by [Krypton](https://krypton.ninja) and is under the [GPL v3](LICENSE.md) license.
