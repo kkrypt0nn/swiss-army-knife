@@ -8,7 +8,7 @@ This package provides some helper functions to make the Advent of Code solutions
 package main
 
 import (
-	"github.com/kkrypt0nn/swiss-army-knife/aoc"
+    "github.com/kkrypt0nn/swiss-army-knife/aoc"
 )
 
 func main() {
@@ -27,7 +27,7 @@ func main() {
 package main
 
 import (
-	"github.com/kkrypt0nn/swiss-army-knife/aoc"
+    "github.com/kkrypt0nn/swiss-army-knife/aoc"
 )
 
 func main() {
