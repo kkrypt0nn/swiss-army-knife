@@ -8,7 +8,7 @@ This package provides some helper functions to be able to send formatted output 
 package main
 
 import (
-	"github.com/kkrypt0nn/swiss-army-knife/terminal"
+    "github.com/kkrypt0nn/swiss-army-knife/terminal"
 )
 
 func main() {
