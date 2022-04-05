@@ -16,7 +16,7 @@ There are some settings we need to provide, in the same order, to be able to gen
 package main
 
 import (
-    "fmt",
+    "fmt"
     "github.com/kkrypt0nn/swiss-army-knife/certificate"
     "time"
 )
