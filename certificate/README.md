@@ -22,8 +22,8 @@ import (
 )
 
 func main() {
-	privateKey, certificate := certificate.GenerateCertificate(1337, "CH", "Krypton", "My Certificate", time.Now().AddDate(7, 7, 7), nil)
-	fmt.Printf("%s\n", privateKey)
-	fmt.Printf("%s\n", certificate)
+    privateKey, certificate := certificate.GenerateCertificate(1337, "CH", "Krypton", "My Certificate", time.Now().AddDate(7, 7, 7), nil)
+    fmt.Printf("%s\n", privateKey)
+    fmt.Printf("%s\n", certificate)
 }
 ```
